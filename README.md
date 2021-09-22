@@ -1,16 +1,16 @@
-# StarTypeClassification
+# Star Type Classification
 This notebook includes classification of stars type with KNN model and decision trees.
 
-##Data Used
+## Dataset
 
 - Data: Six star type and their properties.
 - *Stars.csv* from [kaggle](https://www.kaggle.com/brsdincer/star-type-classification)
 
-##Model 
+## Model 
 
 -   Classification Methods: Decision Trees and KNN
 
-##Libraries Used
+## Libraries Used
     pandas
     numpy
     matplotlib
@@ -19,5 +19,5 @@ This notebook includes classification of stars type with KNN model and decision 
     sklearn
  
  ## Author
- - **Metehan BİLEN**
+ - **[Metehan Bilen](https://github.com/MetehanBilen)**
 
